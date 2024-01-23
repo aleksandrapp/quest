@@ -1,0 +1,1 @@
+BOT_TOKEN = "6793138101:AAG8kA2l7ppPicQo7czo7fyEux_ed2lDMag"
